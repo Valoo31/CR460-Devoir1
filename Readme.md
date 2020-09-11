@@ -10,9 +10,10 @@ Votre code devra être accessible de manière privée, ajoutez Riad et Moi seule
 
 
 ### L'infrastructure à déployer
+fasdfasdfasdfasdfsadfsdafsdfsd
 
 Via Terraform :
-
+D;LJASDJas;ldjs;lfad;sklfjas
 #### Instances
 * une instance nommée "canard"
 de type "f1-micro"
